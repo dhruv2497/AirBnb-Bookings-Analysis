@@ -10,7 +10,7 @@ implementation of innovative additional services and much more.
 Dataset info-
 * Number of records: around 49,000
 * Number of attributes: 16  
-
+  
 Features information: The dataset contains features like:
 1. id: Unique ID
 2. name: Name of the listing
