@@ -5,7 +5,7 @@ personalised way of experiencing the world. Today, Airbnb became one of a kind s
 by the whole world. Data analysis on millions of listings provided through Airbnb is a crucial factor for the company. 
 These millions of listings generate a lot of data data that can be analysed and used for security, business decisions, 
 understanding of customers' and providers' (hosts) behaviour and performance on the platform, guiding marketing initiatives, 
-implementation of innovative additional services and much more. 
+implementation of innovative additional services and much more.   
 
 Dataset info-
 * Number of records: around 49,000
