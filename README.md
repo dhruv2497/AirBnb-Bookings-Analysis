@@ -28,7 +28,7 @@ Features information: The dataset contains features like:
 14. reeviews_per_month: Number of checks per month
 15. calculated_host_listing_count: Total count
 16. availability_365: Availability around the year
-
+  
 **Prerequisites**
 * IDE- Google colab
 
